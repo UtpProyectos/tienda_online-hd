@@ -1,3 +1,4 @@
 SELECT *
-FROM clientes
+FROM clientes 
 WHERE prioridad=2
+ 
